@@ -1,6 +1,6 @@
 # 💬 React Node Chat App
 
-A modern real-time chat application built with **React** and **Node.js**, focused on smooth messaging, clean UI, and fast communication.
+A modern real-time chat application built with **React** and **Node.js**, focused on smooth messaging, clean UI, and fast communication with you cilents
 
 ---
 

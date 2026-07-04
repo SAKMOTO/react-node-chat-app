@@ -140,4 +140,3 @@ Contributions are welcome!
 
 This project is licensed under the MIT License.
 
-(You can add a `LICENSE` file if needed.)
